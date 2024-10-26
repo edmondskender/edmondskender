@@ -7,15 +7,14 @@ Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bac
 ## Skills
 
 - **Programming Languages:** C, C++, Python
-- **Web Development:** Node.js, Express, Handlebars, HTML, CSS, Bootstrap, MVC Architecture
+- **Web Development:** React, Framer Motion, Tailwindcss
 - **Databases:** PostgreSQL
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Splunk (SPL)
-- **Machine Learning & Deep Learning:** scikit-learn, PyTorch, TensorFlow, YOLO Models, Google Colab
+- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, YOLO
 - **Computer Vision:** OpenCV (focused on YOLO models)
 - **Project Management:** Jira
-- **Game Development & Graphics Programming:** Pygame
-- **Operating Systems:** Windows, Linux (Ubuntu)
-- **Version Control:** Git
+- **Game Development:** Pygame
+- **Operating Systems:** Linux (Ubuntu)
 
 ## Projects
 
