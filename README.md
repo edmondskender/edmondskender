@@ -31,6 +31,3 @@ Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bac
 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmondskender&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edmondskender&layout=compact&theme=radical)
