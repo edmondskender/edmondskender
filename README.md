@@ -2,27 +2,8 @@
 
 ## About Me
 
-Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bachelor’s degree in Artificial Intelligence and Data Science** at the **OTH Regensburg**. I have a passion for programming in **C++** and **Python**, and I’m particularly interested in **Machine Learning**, **Deep Learning**, and **Computer Vision**. I'm always open to learning new techniques and collaborating on exciting projects in these fields.
+Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bachelor’s degree in Artificial Intelligence and Data Science** at the **OTH Regensburg**. I have a passion for programming in **C++** and **Python**, and I’m particularly interested in **Machine Learning** and **Deep Learning**. I'm always open to learning new techniques and collaborating on exciting projects in these fields.
 
-## Skills
-
-- **Programming Languages:** C, C++, Python
-- **Web Development:** React, Framer Motion, Tailwindcss
-- **Databases:** PostgreSQL
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Splunk (SPL)
-- **Machine Learning & Deep Learning:** PyTorch, TensorFlow, YOLO
-- **Computer Vision:** OpenCV (focused on YOLO models)
-- **Project Management:** Jira
-- **Game Development:** Pygame
-- **Operating Systems:** Linux (Ubuntu)
-
-## Projects
-
-- **Neural Network for Market Price Prediction:** Implemented a Wide & Deep architecture using TensorFlow to predict market prices on the EPEX Spot Exchange with 95% accuracy.
-- **Flappy Bird Game:** Developed a version of the classic game *Flappy Bird* using Python.
-- **Image Processing Class:** Created an image processing class in C++ that converts images to grayscale.
-- **Real-time Computer Vision Model:** Developed a real-time detection and visualization system for identifying key structures in medical images at the University Hospital Regensburg.
-- **Weather App Website:** Built a web application that allows users to register, log in, and add weather stations to their dashboard, displayed on an interactive map.
 
 ## Education
 
