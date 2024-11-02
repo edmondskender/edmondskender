@@ -26,7 +26,7 @@ Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bac
 
 ## How to Reach Me
 
-- 📫 **Email:** [Skender.Edmond@gmail.com](mailto:Skender.Edmond@gmail.com)
+- 📫 **Email:** [edmondskender.ai@gmail.com](mailto:edmondskender.ai@gmail.com)
 - 💼 **LinkedIn:** [Edmond Skender](https://www.linkedin.com/in/edmond-skender-635807223)
 
 
