@@ -1,5 +1,8 @@
 # Hi there 👋
 
+**Check out my [GitHub Pages Portfolio](https://edmondskender.github.io/my-portfolio/) to see my projects and experience.**
+
+
 ## About Me
 
 Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bachelor’s degree in Artificial Intelligence and Data Science** at the **OTH Regensburg**. I have a passion for programming in **C++** and **Python**, and I’m particularly interested in **Machine Learning** and **Deep Learning**. I'm always open to learning new techniques and collaborating on exciting projects in these fields.
@@ -7,14 +10,28 @@ Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bac
 
 ## Education
 
-- **Bachelor of Science in Artificial Intelligence and Data Science**
-  - *OTH Regensburg*, Expected Graduation: 2025
+**Technical High School (FOS), Regensburg**
+- *Focus: Technical Branch, Internship at Krones AG*
+- *Graduated: August 2017*
+
+**Evening High School, Regensburg**
+- *General Higher Education Entrance Qualification (Abitur)*
+- *Graduated: August 2022, Grade Average: 1.5*
+- *Award for Outstanding Academic Performance in Abitur 2022*
+
+**Bachelor of Science in Artificial Intelligence and Data Science**
+- *OTH Regensburg, Expected Graduation: 2025*
 
 ## Professional Experience
 
-- **Predictive Maintenance Intern, BMW Group, Regensburg (08/2024 - 03/2025):** Worked on predictive maintenance solutions for connected conveyor belts in production.
-- **Student Assistant (SHK) in Artificial Intelligence, University Hospital Regensburg (03/2024 - 12/2024):** Assisted in research on AI applications in medical imaging.
-- **Vacation Worker, Infineon Technologies AG, Regensburg (08/2022 - 09/2022):** Focused on quality control and wafer production processes.
+**Predictive Maintenance Intern, BMW Group, Regensburg (08/2024 - 03/2025):** 
+- *Worked on predictive maintenance solutions for connected conveyor belts in production.*
+  
+**Student Assistant (SHK) in Artificial Intelligence, University Hospital Regensburg (03/2024 - 12/2024):**
+- *Assisted in research on AI applications in medical imaging.*
+  
+**Vacation Worker, Infineon Technologies AG, Regensburg (08/2022 - 09/2022):**
+- *Focused on quality control and wafer production processes.*
 
 ## Interests
 
