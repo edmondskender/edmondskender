@@ -56,6 +56,10 @@ int main(int argc, char* argv[]) {
 <br>
 
 ## How to Reach Me
+<br>
+<div align="center">
+  <p>📫 <strong>Email:</strong> <a href="mailto:edmondskender.ai@gmail.com">edmondskender.ai@gmail.com</a></p>
+  <p>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edmond-skender-635807223">Edmond Skender</a></p>
+</div>
 
- - 📫 **Email:** [edmondskender.ai@gmail.com](mailto:edmondskender.ai@gmail.com)
- - 💼 **LinkedIn:** [Edmond Skender](https://www.linkedin.com/in/edmond-skender-635807223)
+</div>
