@@ -1,50 +1,61 @@
-# Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=edmondskender.edmondskender)
 
-**Check out my [GitHub Pages Portfolio](https://edmondskender.github.io/my-portfolio/) to see my projects and experience.**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Edmond!;" />
+</h1>
+
+<div align="center">
+  <strong>Check out my <a href="https://edmondskender.github.io/my-portfolio/">GitHub Pages Portfolio</a> to see my projects and experience.</strong>
+</div>
 
 
-## About Me
-
-Hello! I'm **Edmond Skender**, a 27-year-old student currently pursuing my **Bachelor’s degree in Artificial Intelligence and Data Science** at the **OTH Regensburg**. I have a passion for programming in **C++** and **Python**, and I’m particularly interested in **Machine Learning** and **Deep Learning**. I'm always open to learning new techniques and collaborating on exciting projects in these fields.
+<br>
 
 
-## Education
+```cpp
+#include <iostream>
+#include <string>
 
-**Technical High School (FOS), Regensburg**
-- *Focus: Technical Branch, Internship at Krones AG*
-- *Graduated: August 2017*
+class Programmer {
+  std::string name;
+  std::string role;
 
-**Evening High School, Regensburg**
-- *General Higher Education Entrance Qualification (Abitur)*
-- *Graduated: August 2022, Grade Average: 1.5*
-- *Award for Outstanding Academic Performance in Abitur 2022*
+public:
 
-**Bachelor of Science in Artificial Intelligence and Data Science**
-- *OTH Regensburg, Expected Graduation: 2025*
+  Programmer() : name("Edmond Skender"), role("AI Student") {}
 
-## Professional Experience
+  void sayHi() {
+    std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+  }
 
-**Predictive Maintenance Intern, BMW Group, Regensburg (08/2024 - 03/2025):** 
-- *Worked on predictive maintenance solutions for connected conveyor belts in production.*
-  
-**Student Assistant (SHK) in Artificial Intelligence, University Hospital Regensburg (03/2024 - 12/2024):**
-- *Assisted in research on AI applications in medical imaging.*
-  
-**Vacation Worker, Infineon Technologies AG, Regensburg (08/2022 - 09/2022):**
-- *Focused on quality control and wafer production processes.*
+};
 
-## Interests
+int main(int argc, char* argv[]) {
+  Programmer me;
+  me.sayHi();
 
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- Computer Vision
-- Software Development
+  return 0;
+}
+```
+
+ 
+<div align="center"> 
+  <a href="https://edmondskender.github.io/my-portfolio" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+ 
+## My Skills
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,c,react,tailwind,clion,cmake,opencv,postgres" alt="My Skills" />
+  </a>
+</div>
+
+<br>
 
 ## How to Reach Me
 
-- 📫 **Email:** [edmondskender.ai@gmail.com](mailto:edmondskender.ai@gmail.com)
-- 💼 **LinkedIn:** [Edmond Skender](https://www.linkedin.com/in/edmond-skender-635807223)
-
-
----
+ - 📫 **Email:** [edmondskender.ai@gmail.com](mailto:edmondskender.ai@gmail.com)
+ - 💼 **LinkedIn:** [Edmond Skender](https://www.linkedin.com/in/edmond-skender-635807223)
