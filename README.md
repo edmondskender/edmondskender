@@ -39,17 +39,13 @@ int main(int argc, char* argv[]) {
 ```
 
  
-<div align="center"> 
-  <a href="https://edmondskender.github.io/my-portfolio" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+
  
 ## My Skills
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,c,react,tailwind,clion,cmake,opencv,postgres" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,c,react,tailwind,clion,opencv,postgres" alt="My Skills" />
   </a>
 </div>
 
