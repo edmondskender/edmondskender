@@ -1,13 +1,11 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=edmondskender.edmondskender)
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edmond!;" />
 </h1>
 
 <div align="center">
   <strong>Check out my <a href="https://edmondskender.github.io/my-portfolio/">GitHub Pages Portfolio</a> to see my projects and experience.</strong>
-</div>
-
+</div> -->
 
 <br>
 
@@ -45,7 +43,7 @@ int main(int argc, char* argv[]) {
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,c,react,tailwind,clion,opencv,postgres" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,c,postgres" alt="My Skills" />
   </a>
 </div>
 
